@@ -68,7 +68,7 @@ This will:
 For hands-on exploration:
 
 ```bash
-jupyter notebook notebooks/exploration.ipynb
+notebooks/fractal_hlip_explorer.py
 ```
 
 This notebook provides:
