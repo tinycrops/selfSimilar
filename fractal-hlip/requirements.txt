@@ -1,0 +1,17 @@
+# Core ML/RL dependencies
+numpy>=1.21.0
+torch>=1.12.0
+matplotlib>=3.5.0
+tqdm>=4.64.0
+
+# Additional useful packages
+scipy>=1.8.0
+seaborn>=0.11.0
+tensorboard>=2.8.0
+opencv-python>=4.5.0
+pillow>=8.3.0
+
+# For notebooks and visualization
+jupyter>=1.0.0
+ipywidgets>=7.6.0
+plotly>=5.0.0 
